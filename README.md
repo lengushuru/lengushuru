@@ -7,10 +7,10 @@ Full Stack Developer</h1>
 
 # A little bit about me
 
-- 🔭 I’m currently a full-time student at Microverse an Online Trainning School.
+- 🔭 I’m currently working on freelance projects .
 - 👯 I’m always looking to collaborate on new projects.
-- 📫 You can reach me at charleslengushuru@gmail.com
-- ⚡ I like 💻: Programming | 📖 reading about universe | ⚡tingering with electronics
+- 📫 You can reach me at charleslengushuru@gmail.com or whatsApp on +254795856603
+- ⚡ I like 💻: Programming | 📖 reading fiction science books | ⚡tingering with electronics
 <hr>
 
 ### Languages and Tools
